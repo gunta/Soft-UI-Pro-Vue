@@ -9,7 +9,7 @@
           <span class="home-text02 lead">
             <span>
               Find the story of Creative Tim&apos;s most complex design
-              <span v-html="rawfe6y"></span>
+              <span v-html="rawazie"></span>
             </span>
             <span>system and all the work that make this design available.</span>
           </span>
@@ -394,7 +394,7 @@ export default {
 
   data() {
     return {
-      rawfe6y: ' ',
+      rawazie: ' ',
     }
   },
 

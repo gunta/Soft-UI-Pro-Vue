@@ -116,7 +116,7 @@
             <h3 class="headingTwo">
               <span>
                 Contact
-                <span v-html="rawpqe4"></span>
+                <span v-html="rawi4xs"></span>
               </span>
               <span>Information</span>
             </h3>
@@ -212,7 +212,7 @@ export default {
 
   data() {
     return {
-      rawpqe4: ' ',
+      rawi4xs: ' ',
     }
   },
 
